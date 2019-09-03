@@ -1,8 +1,8 @@
 # zmap-tools
 
-Tools for the Genesis FPS "Zero Tolerance"
+A tool for the Genesis FPS "Zero Tolerance". Currently saves textures from the game to a various files.
 
-Currently saves textures from Zero Tolerance to a file.
+The game (and its cancelled sequel) is available for free on the developer's website: http://technopop.net/
 
 dependencies: PyQt
 
